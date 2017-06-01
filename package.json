@@ -1,0 +1,16 @@
+{
+  "name": "menu-editor",
+  "main": "./lib/menu-editor",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/rapgenic/menu-editor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "etch": "^0.12.4",
+    "jquery": "^3.2.1"
+  }
+}
