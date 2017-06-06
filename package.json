@@ -1,9 +1,13 @@
 {
   "name": "menu-editor",
   "main": "./lib/menu-editor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Edit your main atom menu and context menu and remove the entries you don't want",
-  "keywords": ["menu", "edit", "remove"],
+  "keywords": [
+    "menu",
+    "edit",
+    "remove"
+  ],
   "repository": "https://github.com/rapgenic/menu-editor",
   "license": "MIT",
   "engines": {
