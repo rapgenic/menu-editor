@@ -1,5 +1,12 @@
-# menu-editor package
+# Menu Editor
 
-A short description of your package.
+Edit your main atom menu and context menu and remove the entries you don't want.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Installing
+
+Install with `apm install menu-editor` or from the package MenuManager
+
+## HowTo
+
+Open your settings (`CTRL+,` or `CMD+,`) and you'll find a new tab "Menu".
+Then just toggle the checkbox corresponding to your entry and you're done.
