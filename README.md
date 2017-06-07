@@ -17,3 +17,4 @@ Then just toggle the checkbox corresponding to your entry and you're done.
 
 - [ ] Add menu search
 - [ ] Add specs 
+- [ ] Revert JQuery (see [Atom Blog](http://blog.atom.io/2017/04/12/atom-1-16.html#farewell-to-jquery))
