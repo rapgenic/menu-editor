@@ -1,7 +1,7 @@
 {
   "name": "menu-editor",
   "main": "./lib/menu-editor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Edit your main atom menu and context menu and remove the entries you don't want",
   "keywords": [
     "menu",
