@@ -3,7 +3,8 @@
     "env": {
         "es6": true,
         "node": true,
-        "browser": true
+        "browser": true,
+        "jasmine": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
@@ -16,10 +17,12 @@
     },
     "plugins": [
         "react",
-        "babel"
+        "babel",
+        "jasmine"
     ],
     "globals": {
-      "atom": false
+      "atom": false,
+      "waitsForPromise": false
     },
     "rules": {
         "indent": [
